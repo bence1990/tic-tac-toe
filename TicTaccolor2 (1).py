@@ -22,7 +22,6 @@ tie=0
 
 board()
 #-------------------------------------------------------------
-#--Ez még nem működik!!!--
 def restart_game(restart):
     answercontinue= input("whould you like to restart?(y/n): ")
     if restart=="y":
